@@ -13,7 +13,7 @@ http://23.225.148.194:2888/dev-api/doc.html
 - [x] 【config接口】 新增 产品分类的 tab的配置
 - [x] 【产品详情】新增 优惠券赠送 、 返佣比例、介绍、详情图
 - [x] 【产品详情-可用优惠券】 新增结束日期字段
-- [x] 【购买列表】接口新增payStatus参数，过滤付款状态 /api/product/order/pageList?payStatus=0
+- [x] 【购买列表】接口新增payStatus参数，过滤付款状态 /api/product/order/pageList/{payStatus}
 - [x] 【我的优惠券】接口 删除开始日期字段
 
 ## 未完成接口
