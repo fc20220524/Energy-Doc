@@ -18,6 +18,7 @@ http://23.225.148.194:2888/dev-api/doc.html
 
 ## 未完成接口
 
+![image](https://user-images.githubusercontent.com/106216124/177014681-09aa9e87-dfaf-4b92-b2e4-019935999944.png)
 
 - [ ] 6、 关于我们新增 【官方群聊】 接口
 - [ ] 7、 推广页面 隐藏产品 【每日收益】 的返佣 
