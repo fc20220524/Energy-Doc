@@ -15,7 +15,8 @@ http://23.225.148.194:2888/dev-api/doc.html
 - [x] 【产品详情-可用优惠券】 新增结束日期字段
 - [x] 【购买列表】接口新增payStatus参数，过滤付款状态 /api/product/order/pageList/{payStatus}
 - [x] 【我的优惠券】接口 删除开始日期字段
-- [x] 【岗位列表】接口 /api/post/postlist
+- [x] 【岗位列表】接口 /api/post/postlist 奖励发放周期为config参数中key值为profit_cycle的数据；具体值为 {"profitCycleName": "周", "profitTime":"5"}// 每周五晚上八点开始发放（晚上八点定死的）
+
 ![image](https://user-images.githubusercontent.com/37478475/177053247-7b1df513-c2e0-42aa-92a3-03f50071c491.png)
 
 ## 未完成接口
