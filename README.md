@@ -6,7 +6,7 @@ http://23.225.148.194:2888/dev-api/doc.html
 ```
 
 ## 已完成接口
-- [x] 【用户信息、我的团队】接口  /api/rebate/querymyteamdata、/api/getInfo、/api/register新增用户昵称字段，前端需把username改为nickName
+- [x] 【用户信息、我的团队】接口  /api/rebate/querymyteamdata、/api/getInfo、/api/register新增用户昵称字段nickeName，这三个接口，涉及到的页面，用户名（username）改为用nickName展示
 - [x] 【持有收益时间轴】接口  /api/product/hold/logPageList/{holdId} 新增收益金额字段（money）
 - [x] 【官方群聊】接口  /ucenter/groupInfo/getinfo  文档在用户接口-群组信息管理-查询群组信息下
 - [x] 首页接口文档已更新，所有的产品列表新增 imageUrl 【背景图】字段
